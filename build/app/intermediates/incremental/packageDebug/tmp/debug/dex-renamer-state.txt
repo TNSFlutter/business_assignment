@@ -1,0 +1,4 @@
+#Sun Mar 03 20:03:39 IST 2024
+base.0=/Users/ananyabisen/Desktop/business_assignment/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
